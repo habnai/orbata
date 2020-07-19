@@ -1,6 +1,6 @@
-# Liebling
+# orbata
 
-Liebling is a beautiful and clean Ghost theme that is easy and comfortable to use. **It's free** and you can use it for any kind of content you might have. Now with dark mode 🌓!
+orbata is a beautiful and clean Ghost theme that is easy and comfortable to use. **It's free** and you can use it for any kind of content you might have. Now with dark mode 🌓!
 
 If you find this theme useful, please consider to make a donation to support its development! 🙏🏼
 
@@ -8,15 +8,15 @@ If you find this theme useful, please consider to make a donation to support its
 
 ## Preview
 
-You can see a live demo here: [https://liebling.eduardogomez.io](https://liebling.eduardogomez.io)
+You can see a live demo here: [https://orbata.eduardogomez.io](https://orbata.eduardogomez.io)
 
-![](https://res.cloudinary.com/edev/image/upload/v1583792928/liebling/liebling-promo-desktop.jpg)
+![](https://res.cloudinary.com/edev/image/upload/v1583792928/orbata/orbata-promo-desktop.jpg)
 <br><br>
-![](https://res.cloudinary.com/edev/image/upload/v1570370297/liebling/liebling-promo-mobile.jpg)
+![](https://res.cloudinary.com/edev/image/upload/v1570370297/orbata/orbata-promo-mobile.jpg)
 
 ## Download
 
-To get the latest version please head over the [releases page](https://github.com/eddiesigner/liebling/releases) and download the file `liebling.zip` of the latest release.
+To get the latest version please head over the [releases page](https://github.com/eddiesigner/orbata/releases) and download the file `orbata.zip` of the latest release.
 
 **IMPORTANT: From now on, this theme is only compatible with Ghost 3+**
 
@@ -32,7 +32,7 @@ To get the latest version please head over the [releases page](https://github.co
 
 ### Ghost features
 
-* Subscription form [more info here](https://github.com/eddiesigner/liebling/wiki/How-to-enable-subscribers)
+* Subscription form [more info here](https://github.com/eddiesigner/orbata/wiki/How-to-enable-subscribers)
 * Multiple authors
 * Logo support
 * Secondary menu
@@ -49,7 +49,7 @@ To get the latest version please head over the [releases page](https://github.co
 * Next and Previous post navigation
 * Primary tag in posts
 
-### Liebling unique features
+### orbata unique features
 
 * Dark mode
 * Search
@@ -92,7 +92,7 @@ To get the latest version please head over the [releases page](https://github.co
 
 ## Tests performed
 
-* W3C Markup Validation: [Correct validation](https://validator.w3.org/nu/?doc=https%3A%2F%2Fliebling.eduardogomez.io%2F)
+* W3C Markup Validation: [Correct validation](https://validator.w3.org/nu/?doc=https%3A%2F%2Forbata.eduardogomez.io%2F)
 * Ghost GScan: [100/100 points](https://gscan.ghost.org/)
 * GTmetrix PageSpeed Score: **A (97%)**
 * PageSpeed Insights: **94/100** (mobile) **99/100** (desktop)
@@ -102,17 +102,17 @@ To get the latest version please head over the [releases page](https://github.co
 
 Thanks to [D3473R](https://github.com/D3473R) 💪🏼 for creating a development environment with Docker. From now on you can work on this theme without installing a Ghost instance on your local machine. With two commands you have an instant development setup and you can build the theme for production.
 
-Please take a look to this page to see how it works: https://github.com/eddiesigner/liebling/wiki/Theme-development-with-Docker
+Please take a look to this page to see how it works: https://github.com/eddiesigner/orbata/wiki/Theme-development-with-Docker
 
 ## Help and Support
 
-To know how to enable the search, comments, subscribers and more, please head to the [Wiki](https://github.com/eddiesigner/liebling/wiki).
+To know how to enable the search, comments, subscribers and more, please head to the [Wiki](https://github.com/eddiesigner/orbata/wiki).
 
-If you have any questions or troubles with this product, please feel free to open an issue [here](https://github.com/eddiesigner/liebling/issues).
+If you have any questions or troubles with this product, please feel free to open an issue [here](https://github.com/eddiesigner/orbata/issues).
 
 ## Contributing
 
-Contributions are very welcome. First, please read the [Pull Request Guidelines](https://github.com/eddiesigner/liebling/wiki/Pull-Request-Guidelines) on the wiki.
+Contributions are very welcome. First, please read the [Pull Request Guidelines](https://github.com/eddiesigner/orbata/wiki/Pull-Request-Guidelines) on the wiki.
 
 ## Related
 
@@ -120,7 +120,7 @@ Contributions are very welcome. First, please read the [Pull Request Guidelines]
 
 ## License
 
-Copyright (c) 2019-2020 Eduardo Gómez. Released under the [MIT license](https://github.com/eddiesigner/liebling/blob/master/LICENSE).
+Copyright (c) 2019-2020 Eduardo Gómez. Released under the [MIT license](https://github.com/eddiesigner/orbata/blob/master/LICENSE).
 
 ## Credits
 
